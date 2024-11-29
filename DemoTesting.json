@@ -1,0 +1,22 @@
+{
+"UserInfo":[
+{
+"UserID": "1"
+"Name": "Name1",
+"occupation": "Farmer",
+"Salary": "200000"
+},
+{
+"UserID": "2"
+"Name": "Sony",
+"occupation": "Engineer",
+"Salary": "100000"
+},
+{
+"UserID": "3"
+"Name": "Kido",
+"occupation": "Gamer",
+"Salary": "80000"
+}
+]
+}
